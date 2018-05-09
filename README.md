@@ -1,8 +1,8 @@
 # frontend-AllezCine
-First front-end project @ BeCode
-/!\ Please disable AdBlock to let the content load
-https://tsinxias.github.io/allez-cine/1_One-Pager/index.html
-https://tsinxias.github.io/allez-cine/2_Fan-page/index.html
+First front-end project @ BeCode  
+/!\ Please disable AdBlock to let the content load  
+https://tsinxias.github.io/allez-cine/1_One-Pager/index.html  
+https://tsinxias.github.io/allez-cine/2_Fan-page/index.html  
 
 ## BeCode - Front-end project
 
