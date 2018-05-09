@@ -1,15 +1,16 @@
 # frontend-AllezCine
 First front-end project @ BeCode
-
+/!\ Please disable AdBlock to let the content load
 https://tsinxias.github.io/allez-cine/1_One-Pager/index.html
+https://tsinxias.github.io/allez-cine/2_Fan-page/index.html
 
 ## BeCode - Front-end project
 
 #### Team members
 
-Quentin Claes,  
-Bertrand Honner,  
-Tsinxias Zhang.  
+[Quentin Claes]('https://github.com/QuentinClaes'),  
+[Bertrand Honner]('https://github.com/SuperchillB'),  
+[Tsinxias Zhang]('https://github.com/Tsinxias').  
 
 
 ### Project description
