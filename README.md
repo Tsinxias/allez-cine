@@ -1,7 +1,7 @@
 # frontend-AllezCine
 First front-end project @ BeCode  
-  
-/!\ Please disable AdBlock to let the content load  
+
+**/!\ Please disable AdBlock to let the content load**
 https://tsinxias.github.io/allez-cine/1_One-Pager/index.html  
 https://tsinxias.github.io/allez-cine/2_Fan-page/index.html  
 
@@ -22,9 +22,10 @@ https://tsinxias.github.io/allez-cine/2_Fan-page/index.html
 - CSS
 - JavaScript
 - JQuery
-- Responsive Design (Media Queries)
-- Bootstrap
-- Font Awesome Icons
+- AJAX (JS & JQuery methods) too fetch movies/tv-shows/books/video-games data
+- JSON (Stored online as movies/tv-shows/books/video-games db)
+- Bootstrap4
+- Font Awesome Icons4
 
 
 #### A. One Pager
